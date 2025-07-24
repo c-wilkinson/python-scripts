@@ -154,3 +154,6 @@ cython_debug/
 # photo_frame_sync secrets
 photo_frame_sync_config/secrets.json
 photo_frame_sync_data/sent_photos.db
+
+# CSV
+kindle_books.csv
