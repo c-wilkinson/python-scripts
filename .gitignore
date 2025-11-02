@@ -157,3 +157,7 @@ photo_frame_sync_data/sent_photos.db
 
 # CSV
 kindle_books.csv
+scramblepad_stats.csv
+
+# scramble pad secret
+scramblepad.conf
